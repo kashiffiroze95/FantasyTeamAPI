@@ -1,0 +1,43 @@
+Drem11 Fantasy
+
+As an AI language model, I can provide you with a basic structure of the Java code to make the top 30 team for Dream11 Fantasy based on the given criteria. However, please note that the implementation of the code may vary based on the specific requirements and data sources.
+
+Here is an example code structure:
+
+1. Define a class named Team with the following attributes:
+   - Team name
+   - Number of matches played
+   - Percentage of people selecting the team
+   - Average fantasy points scored
+   - Performance in the last three matches
+   - Percentage of pitches in favor of batsman
+   - Percentage of pitches in favor of bowler
+   
+2. Create an ArrayList to store the Team objects.
+3. Retrieve the data for each team from the data source and create a Team object for each team.
+4. Calculate the rank for each team based on the given criteria.
+5. Sort the ArrayList based on the rank of the teams.
+6. Select the top 30 teams from the sorted ArrayList.
+7. Display the selected teams to the user.
+
+
+--------------------------------------------------------------------------------
+1. Create a class for the players with fields such as name, matches played, selection percentage, average fantasy points, and performance in last 3 matches. 
+2. Create a separate class for the pitches with fields such as the percentage of pitches in favor of batsman and bowler.
+3. Read the data from a CSV or Excel file containing player information and pitch data.
+4. Calculate the total fantasy points for each player based on their average fantasy points, performance in the last 3 matches, and the percentage of pitches in favor of batsmen and bowlers. 
+5. Sort the players based on their total fantasy points in descending order.
+6. Select the top 30 players from the sorted list.
+7. Generate all possible team combinations of 11 players each from the top 30 players.
+8. Calculate the total fantasy points for each team.
+9. Select the top 30 teams based on their total fantasy points.
+10. Display the top 30 teams and their respective total fantasy points.
+
+
+Generate all possible team combinations of 11 players among 18 players
+
+
+
+
+
+
